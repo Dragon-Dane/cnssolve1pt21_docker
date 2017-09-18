@@ -129,3 +129,4 @@ CMD ["bash"]
 # `./cns_solve` to run the programs.
 # CTRL-Z allows you to exit the programs and return to the command line of the 
 # running container.
+# Run `sudo apt-get update` first if you need to install anything later.
